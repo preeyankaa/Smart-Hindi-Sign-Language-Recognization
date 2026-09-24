@@ -1,4 +1,4 @@
-# 🤝 SignWave - Smart Hindi Sign Language Recognization
+# 🤝 SignWave - Smart Hindi Sign Language Recognizatio
 
 Welcome to **SignWave**, a cutting-edge sign language interpreter designed to break communication barriers. This project enables real-time detection of sign language alphabets (A–Z, 1–9) and words in both English and Hindi, with an added feature of 🤖 LLM-based sentence suggestions. Users can form words from detected alphabets and leverage our suite of tools to master Hindi sign language.
 
