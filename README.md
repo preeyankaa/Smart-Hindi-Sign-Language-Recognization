@@ -14,7 +14,7 @@ This project was developed as a 1-year academic project during Semester 5 and 6 
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - 🔤 **Real-time Alphabet Detection**: Identifies sign language alphabets (A–Z) and numbers (1–9) with support for English and Hindi. Users can form words by combining detected alphabets.
 - 🗣️ **Real-time Words Detection**: Recognizes 30 basic sign language words (e.g., "Love", "Thank You") in English and Hindi.
